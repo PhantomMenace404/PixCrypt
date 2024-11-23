@@ -1,4 +1,3 @@
-# PRODIGY_CS_02
 # PixCrypt
 
 PixCrypt is a simple image encryption tool using pixel manipulation developed for Kali Linux. The tool allows users to encrypt and decrypt images by performing basic mathematical operations on each pixel value.
